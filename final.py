@@ -5,13 +5,14 @@ import pandas as pd
 import json
 import streamlit.components.v1 as com
 from streamlit_lottie import st_lottie  
+import os
+from dotenv import load_dotenv
 
-# Replace these with your Spotify API credentials
-client_id = '2719d98f2c9a4f1fbf31e4ffb7d82294'
-client_secret = '02fb09a547a9410e9a1c1cf807111a9a'
+#Loading environment variables 
+load_dotenv() 
 
 # Authenticate with Spotify
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=os.environ.get('SPOTIFY_CLIENT_ID'), client_secret=os.environ.get('SPOTIFY_CLIENT_SECRET'))) 
 
 @st.cache_data
 def get_playlist_tracks(playlist_link):

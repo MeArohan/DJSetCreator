@@ -1,101 +1,51 @@
 song,artist,album,year,duration (ms),popularity,tempo,danceability
-Hips Don't Lie (feat. Wyclef Jean),Shakira,"Oral Fixation, Vol. 2 (Expanded Edition)",2005,218093,87,100.024,0.778
-Munni Badnaam,Mamta Sharma,Dabangg,2010,305017,62,125.029,0.696
-Desi Girl,Vishal-Shekhar,Dostana (Original Motion Picture Soundtrack),2008,306986,63,136.051,0.746
-Chammak Challo,Akon,Ra-One,2011,227091,72,133.946,0.742
-Dilliwaali Girlfriend,Pritam,Yeh Jawaani Hai Deewani,2013,260552,63,138.048,0.687
-"Party on My Mind (From ""Race 2"")",KK,Race 2 (Original Motion Picture Soundtrack),2013,222133,0,122.015,0.715
-Bom Diggy Diggy,Zack Knight,"Bom Diggy Diggy (From ""Sonu Ke Titu Ki Sweety"")",2018,238530,64,104.032,0.782
-Subha Hone Na De,Pritam,Desi Boyz,2011,288696,66,131.97,0.727
-Lat Lag Gayee,Benny Dayal,Race 2 (Original Motion Picture Soundtrack),2012,280369,67,131.991,0.79
-Balam Pichkari,Pritam,Yeh Jawaani Hai Deewani,2013,288902,64,120.02,0.732
-Baby Doll,Meet Bros Anjjan,Ragini Mms 2,2014,213887,64,103.992,0.836
-Sheila Ki Jawani,Sunidhi Chauhan,Tees Maar Khan,2010,281707,66,101.007,0.803
-Badtameez Dil,Pritam,Yeh Jawaani Hai Deewani,2013,252760,66,106.021,0.806
-Chikni Chameli,Ajay-Atul,Agneepath (Original Motion Picture Soundtrack),2011,301586,65,90.005,0.693
-Make Some Noise For The Desi Boyz,Pritam,Desi Boyz,2011,244067,65,141.98,0.692
-Kar Gayi Chull,Badshah,The Badshah of Party Hits,2017,187710,63,121.99,0.828
-Mauja Hi Mauja,Pritam,Jab We Met,2007,245099,60,104.982,0.738
-Nashe Si Chadh Gayi,Vishal-Shekhar,Befikre,2016,237875,71,96.953,0.799
-Saturday Saturday,Shaarib Toshi,Saturday Saturday,2014,210799,58,130.02,0.847
-"Abhi Toh Party Shuru Hui Hai (From ""Khoobsurat"")",Badshah,Badshah Party Hits,2020,179912,56,129.998,0.806
-Where's the Party Tonight,Shankar-Ehsaan-Loy,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),2006,378160,55,132.021,0.764
-I Hate Luv Storys,Vishal-Shekhar,I Hate Luv Storys (Original Motion Picture Soundtrack),2010,285213,59,130.012,0.747
-"Sunny Sunny (From ""Yaariyan"")",Yo Yo Honey Singh,Yo Yo Honey Singh Is Back,2018,243319,57,129.978,0.794
-Hookah Bar,Himesh Reshammiya,Khiladi 786,2012,254351,68,131.04,0.73
-Lungi Dance,Yo Yo Honey Singh,Lungi Dance,2013,275399,62,163.95,0.684
-Soni De Nakhre,Wajid,Partner,2007,261013,67,131.989,0.829
-Ainvayi Ainvayi,Salim–Sulaiman,Band Baaja Baaraat,2010,267624,63,155.986,0.689
-Kamariya,Aastha Gill,Stree,2018,187982,66,96.987,0.825
-Deewangi Deewangi,Shaan,Om Shanti Om,2007,352388,60,107.975,0.725
-Fevicol Se,Mamta Sharma,Dabangg 2,2012,289865,62,119.966,0.752
-Vele,Vishal-Shekhar,Student of the Year (Original Motion Picture Soundtrack),2012,230546,63,108.001,0.833
-Let's Nacho,Nucleya,The Badshah of Party Hits,2017,215075,53,130.041,0.742
-Sadi Gali,Lehmber Hussainpuri,Tanu Weds Manu,2011,264900,61,129.989,0.726
-Aaja Nachle,Salim–Sulaiman,Aaja Nachle,2007,305162,59,120.003,0.771
-"Deewangi (Rainbow Mix)[Remix By Dj Kiran,Dj G]",Shreya Ghoshal,Om Shanti Om,2007,286496,37,121.992,0.757
-"Kamariya - Remix By DJ Akhil Talreja (From ""Mitron"")",Lijo George,"Kamariya [Remix By DJ Akhil Talreja (From ""Mitron"")]",2018,210206,31,108.735,0.691
-"O Saki Saki (From ""Batla House"")",Neha Kakkar,"O Saki Saki (From ""Batla House"")",2019,191089,62,108.014,0.737
-"Coca Cola (From ""Luka Chuppi"")",Tony Kakkar,"Coca Cola (From ""Luka Chuppi"")",2019,179225,64,102.009,0.722
-"Dheeme Dheeme (From ""Pati Patni Aur Woh"")",Tony Kakkar,"Dheeme Dheeme (From ""Pati Patni Aur Woh"")",2019,177382,55,110.054,0.8
-"Ra Ra Rakkamma (From ""Vikrant Rona"")",Nakash Aziz,"Ra Ra Rakkamma (From ""Vikrant Rona"")",2022,218343,0,130.012,0.839
-High Heels,Jaz Dhami,High Heels,2012,297770,61,130.045,0.891
-Satisfya,Imran Khan,Satisfya,2013,180056,65,163.879,0.726
-Amplifier,Imran Khan,Amplifier,2009,232906,22,164.003,0.727
-Senorita,Farhan Akhtar,Zindagi Na Milegi Dobara,2011,229575,62,122.539,0.701
-Dhoom Machale Dhoom,Pritam,Dhoom:3,2013,235624,48,109.994,0.7
-Jalebi Baby (Tesher x Jason Derulo),Tesher,Jalebi Baby (Tesher x Jason Derulo),2021,169154,66,93.059,0.691
-Jalebi Baby (Tesher x Jason Derulo) [DallasK Remix],Tesher,Jalebi Baby (Tesher x Jason Derulo) [DallasK Remix],2021,161061,39,118.084,0.809
-Oh Ho Ho Ho (Remix),Sukhbir,Hindi Medium,2017,244416,61,144.944,0.676
-Chikni Chameli - DJ Khushi Club Mix,Ajay-Atul,Chikni Chameli,2011,266373,17,105.004,0.813
-"Kapoor & Sons Mashup (By DJ Chetas) (From ""Kapoor & Sons (Since 1921)"")",Nucleya,"Kapoor & Sons Mashup (By DJ Chetas) (From ""Kapoor & Sons (Since 1921)"")",2016,221000,35,130.094,0.654
-Sooraj Dooba Hain (Remix By Dj Kiran Kamath),Arijit Singh,Roy - Remix,2015,275342,27,129.906,0.574
-Palat - Tera Hero Idhar Hai (Remix),Arijit Singh,Main Tera Hero,2014,156606,31,72.551,0.366
-Bom Diggy (DJ Chetas Remix),Zack Knight,Bom Diggy (Remixes),2018,222121,30,103.933,0.695
-"Aankh Marey (From ""Simmba"")",Neha Kakkar,"Aankh Marey (From ""Simmba"")",2018,212741,61,129.999,0.796
-Dilliwali Girlfriend,DJ Kushy,Dilliwali Girlfriend,2018,197142,30,139.952,0.728
-Oo Antava Oo Oo Antava,Indravathi Chauhan,Pushpa - The Rise,2021,223325,59,127.97,0.925
-Insane,AP Dhillon,Insane,2021,206060,67,98.967,0.796
-Bachna Ae Hasinon Lo Main Aa Gaya,DJ Tarun Makhijani Aka DJ T,"Bollywood Party Remix, Vol.1",2022,184153,3,130.003,0.719
-One Two Three Four Get On the Dance Floor,Sri Charan,Chennai Express (Original Motion Picture Soundtrack),2013,228624,0,170.043,0.732
-Fevicol Se,Mamta Sharma,Dabangg 2 (Original Motion Picture Soundtrack),2012,289960,0,120.028,0.528
-"Say ""Shava Shava""",Aadesh Shrivastava,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),2001,408920,54,98.808,0.665
-Sooraj Dooba Hain,Arijit Singh,Roy,2015,264854,66,128.051,0.616
-Radha,Vishal-Shekhar,Student of the Year (Original Motion Picture Soundtrack),2012,341360,59,131.989,0.804
-Abhi Toh Party Shuru Hui Hai,Badshah,Khoobsurat,2014,179912,57,129.999,0.806
-"Baby Doll (From ""Ragini Mms 2"")",Meet Bros Anjjan,Bollywood Party With Meet Bros,2017,213887,44,103.992,0.836
-Chammak Challo (Muthada Chammak Challo),Akon,Ra-One,2011,226789,43,133.986,0.765
-Jumme Ki Raat,Mika Singh,Kick,2014,273854,46,140.186,0.688
-Dilliwaali Girlfriend,Arijit Singh,Best Of Sunidhi Chauhan,2017,260552,46,138.047,0.688
-Gallan Goodiyaan,Yashita Sharma,Dil Dhadakne Do,2015,296500,65,119.974,0.83
-"Dilbar (From ""Satyameva Jayate"")",Neha Kakkar,"Dilbar (From ""Satyameva Jayate"")",2018,184432,66,104.054,0.725
-It's the Time to Disco,Shankar-Ehsaan-Loy,Kal Ho Naa Ho (Original Motion Picture Soundtrack),2003,333093,58,131.992,0.902
-Crazy Kiya Re,Pritam,Dhoom:2,2006,294504,57,92.017,0.759
-Ghagra,Pritam,Yeh Jawaani Hai Deewani,2013,304307,61,101.94,0.706
-Nagada Nagada,Pritam,Jab We Met,2007,228469,55,120.004,0.757
-"Chaar Botal Vodka (From ""Ragini Mms 2"")",Yo Yo Honey Singh,Yo Yo Honey Singh Is Back,2018,225837,62,123.024,0.877
-Dhoom Machale,Pritam,Dhoom,2004,375118,50,101.44,0.778
-Dhinka Chika,Amrita Kak,Ready,2011,271900,52,82.988,0.752
-Dard - E - Disco,Sukhwinder Singh,Om Shanti Om,2007,268712,62,107.025,0.837
-Ye Ishq Hai,Pritam,Jab We Met,2007,280974,65,118.045,0.823
-Character Dheela,Pritam,Ready,2011,226300,62,111.983,0.783
-The Disco Song,Vishal-Shekhar,Student of the Year (Original Motion Picture Soundtrack),2012,342093,58,125.006,0.69
-"Main Tera Boyfriend (From ""Raabta"")",Arijit Singh,Groove With Arijit Singh,2019,276153,57,104.019,0.84
-"Chogada (From ""Loveyatri"")",Darshan Raval,"Chogada (From ""Loveyatri"")",2018,249741,64,62.914,0.359
-Hawa Hawa,Mika Singh,"Hawa Hawa (From ""Mubarakan"")",2017,272290,55,137.981,0.825
-Chittiyaan Kalaiyaan,Meet Bros Anjjan,Roy,2015,246100,65,100.007,0.793
-Dance Pe Chance,Salim–Sulaiman,Rab Ne Bana Di Jodi,2008,261015,57,128.024,0.884
-Love Mera Hit Hit,Pritam,Billu,2009,286034,57,104.844,0.825
-"Badri Ki Dulhania (Title Track) [From ""Badrinath Ki Dulhania""]",Dev Negi,Best Of Neha Kakkar,2017,206858,54,128.039,0.759
-Tukur Tukur,Pritam,Dilwale (Original Motion Picture Soundtrack),2015,247458,54,137.989,0.8
-Yeh Jawaani Hai Deewani Mashup,Benny Dayal,Mashups,2015,234084,0,129.954,0.671
-Nashe Si Chadh Gayi,Arijit Singh,Best of Arijit Singh,2019,238288,45,96.948,0.8
-Party All Night,Yo Yo Honey Singh,Boss,2013,282792,58,129.989,0.854
-Bijlee Bijlee,Harrdy Sandhu,Bijlee Bijlee,2021,168450,67,100.004,0.795
-Lamberghini,The Doorbeen,Lamberghini - Single,2018,216999,47,104.007,0.953
-Mundian To Bach Ke,Panjabi MC,The Album,2003,245560,62,98.073,0.777
-"London Thumakda (From ""Queen"")",Labh Janjua,Best Of Neha Kakkar,2017,230468,57,139.968,0.835
-Thug Le,Salim–Sulaiman,Ladies Vs Ricky Bahl,2011,218932,59,112.988,0.768
-Maahi Ve,Shankar-Ehsaan-Loy,Kal Ho Naa Ho (Original Motion Picture Soundtrack),2003,366853,61,99.989,0.815
-Marjaani,Pritam,Billu,2009,323941,53,109.427,0.773
-Zara Zara Touch Me,Monali Thakur,Race (Original Motion Picture Soundtrack),2008,285619,58,124.012,0.844
+I Don't Wanna Wait,David Guetta,I Don't Wanna Wait,2024,149667,91,129.976,0.681
+Thank You (Not So Bad),Dimitri Vegas & Like Mike,Thank You (Not So Bad),2023,140000,86,150.019,0.673
+Desire (with Sam Smith),Calvin Harris,Desire (with Sam Smith),2023,179161,79,140.009,0.587
+Addicted,Zerb,Addicted,2024,152250,84,120.064,0.771
+Mockingbird,Tiësto,Mockingbird,2024,154838,77,155.011,0.656
+places to be,Fred again..,places to be,2024,226677,80,174.043,0.548
+Thunder,Gabry Ponte,Thunder,2021,160000,80,101.216,0.67
+Boyz In Paris (with VINAI),Marnik,Boyz In Paris (with VINAI),2023,151589,78,149.036,0.628
+The Spark,Kabin Crew,The Spark,2024,146384,79,173.931,0.841
+Pedro,Jaxomy,Pedro,2024,144846,88,151.019,0.788
+Belly Dancer,Imanbek,Belly Dancer,2022,151475,79,121.985,0.845
+When We Were Young (The Logical Song),David Guetta,When We Were Young (The Logical Song),2023,147432,82,139.989,0.657
+Edge of Seventeen,Wuki,Edge of Seventeen,2022,164042,71,127.997,0.708
+Hey Brother,Avicii,True,2013,255093,78,125.014,0.545
+Water,Tyla,Water,2023,191733,70,123.854,0.525
+All the Things She Said,Robin Schulz,All the Things She Said,2024,165299,68,150.078,0.517
+Rumble,Skrillex,Quest For Fire,2023,146571,67,139.979,0.81
+Would You (go to bed with me?),Campbell,Would You (go to bed with me?),2023,120522,75,87.042,0.602
+Vois sur ton chemin - Techno Mix,BENNETT,Vois sur ton chemin (Techno Mix),2023,178156,84,137.959,0.634
+It's Not Right But It's Okay,Mr. Belt & Wezol,It's Not Right But It's Okay,2024,152304,83,128.004,0.755
+Jungle,Alok,Jungle,2023,175500,76,140.002,0.596
+Seven Nation Army,DJ Fluke,Seven Nation Army,2021,156309,69,125.97,0.689
+Titanium (feat. Sia),David Guetta,Nothing but the Beat 2.0,2011,245040,71,126.06,0.604
+Drums (Feat. Kim Petras),James Hype,Drums (Feat. Kim Petras),2023,152400,71,128.014,0.792
+Sunshine (My Girl),Wuki,Sunshine (My Girl),2023,131250,76,128.087,0.871
+Good Love,Hannah Laing,Good Love,2023,169534,74,140.039,0.777
+Prada,cassö,Prada,2023,132359,86,141.904,0.638
+Ratata,La Fuente,Ratata,2024,148446,70,127.002,0.886
+Witchcraft,Pendulum,Immersion,2010,252786,61,174.038,0.42
+Miss You - Bonus Track,Oliver Tree,Alone In A Crowd,2023,206000,76,145.007,0.587
+Honey Boy (feat. Nile Rodgers & Shenseea),Purple Disco Machine,Honey Boy (feat. Nile Rodgers & Shenseea),2024,227283,79,119.984,0.724
+Hall Of Fame,PHARAØH,Hall Of Fame,2022,177904,56,169.965,0.523
+One in a Million,Bebe Rexha,One in a Million,2023,160529,75,137.945,0.454
+Satisfaction - Hardwell & Maddix Remix,David Guetta,Satisfaction (Hardwell & Maddix Remix),2023,204436,67,135.014,0.715
+Wasted Youth,goddard.,Wasted Youth,2024,147581,70,174.004,0.565
+Cruel Summer - LP Giobbi Remix,Taylor Swift,The Cruelest Summer,2023,192900,66,122.988,0.73
+Fine Day Anthem,Skrillex,Fine Day Anthem,2023,193690,68,138.011,0.771
+leavemealone,Fred again..,USB,2024,222784,73,174.062,0.68
+Dernière danse - Techno Mix,Indila,Dernière danse (Techno Mix),2024,197142,77,140.004,0.589
+Big City Life,Luude,Big City Life,2022,146711,71,87.03,0.615
+Bel Mercy,Jengi,Bel Mercy,2022,169606,68,127.016,0.949
+Couldn't Care Less (feat. Gia Koka),ALTÉGO,Couldn't Care Less (feat. Gia Koka),2024,145946,74,142.009,0.732
+These Words,Badger,These Words,2024,136580,82,129.989,0.595
+I Want You To Know,Zedd,True Colors,2015,240000,64,129.999,0.579
+I Love It (feat. Charli XCX),Icona Pop,THIS IS... ICONA POP,2013,157152,72,125.916,0.711
+Man In Finance (with David Guetta),David Guetta,Man In Finance (with David Guetta),2024,113595,76,126.028,0.669
+Get Busy - Odd Mob Club Mix,Sean Paul,Get Busy (Odd Mob Club Mix),2024,165909,62,132.08,0.77
+HUMBLE. - SKRILLEX REMIX,Skrillex,HUMBLE. (SKRILLEX REMIX),2017,156800,67,150.037,0.901
+Jungle,Fred again..,USB,2024,198805,69,133.922,0.665
+Mad World,Timmy Trumpet,Mad World,2020,153303,69,106.594,0.54
